@@ -2,6 +2,10 @@ audio.peergrade.th
 ==================
 A small install-and-run script for streaming audio from OS X to an LG TV over UPnP.
 
+To run it, open a shell (e.g. Terminal.app), go to this directory on your computer, and type
+
+    ./run.sh
+
 The script first installs:
 
 * Soundflower
