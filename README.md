@@ -1,6 +1,6 @@
 audio.peergrade.th
 ==================
-A small install-and-run script for stream audio from OS X to an LG TV over UPnP.
+A small install-and-run script for streaming audio from OS X to an LG TV over UPnP.
 
 The script first installs:
 
