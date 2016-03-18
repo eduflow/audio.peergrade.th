@@ -10,10 +10,10 @@ The script first installs:
 * Mediatomb
 
 Then it runs all the things, except Soundflower.
-To get Soundflower to works its magic go to `System Preferences > Sound`, and then
-under the `Output` pane, choose _Soundflower 2ch_ as your output.
+To get Soundflower to work its magic go to _System Preferences > Sound_, and then
+under the _Output_ pane, choose _Soundflower 2ch_ as your output.
 
-Your speakers stop playing -- don't worry! That is all part of the plan.
+Your speakers should now stop playing -- don't worry! That is all part of the plan.
 They'll come back on when you set your output back to _Internal Speakers_.
 But for now, leave it on _Soundflower (2ch)_.
 
