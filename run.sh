@@ -13,7 +13,7 @@ echo "Installing dependencies, please wait..."
 [[ "$(brew cask ls --versions soundflower 2>/dev/null)" == "" ]] && brew cask install soundflower
 command -v darkice >/dev/null || {
   echo " - Compiling darkice-macosx, please wait..."
-  brew install jack lame
+  brew install autoconf automake libtool jack lame
   git clone git@github.com:rafael2k/darkice.git
   cd darkice/darkice/branches/darkice-macosx/
   aclocal
